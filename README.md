@@ -1,7 +1,7 @@
 ## Hi! My name is Fernando Moraes
 
 ### About me
-I'm 19 years old, currently studying the second semester of Software Engineering at FIAP Paulista. I am fluent in English with certificates from KNN Idiomas, Person and the CCCC Bilingual program. I live in Caçapava-SP but I plan to move to grande São Paulo and the region.
+I'm 19 years old, currently studying the second semester of Software Engineering at FIAP Paulista. I am fluent in English with certificates from KNN Idiomas, Person and the CCCC Bilingual program. I worked for 4 years for an agency as a Graphic Designer, Meta ADS manager and Social Media. Nowadays I seek to work in the Dev area. I live in Caçapava-SP but I plan to move to grande São Paulo and the region.
 
 ## 
 
